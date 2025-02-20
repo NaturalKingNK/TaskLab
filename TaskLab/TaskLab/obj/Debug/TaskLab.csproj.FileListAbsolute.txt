@@ -1,0 +1,14 @@
+C:\Users\Артур\Desktop\TaskLab\TaskLab\TaskLab\obj\Debug\TaskLab.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\TaskLab\TaskLab\TaskLab\obj\Debug\TaskLab.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\TaskLab\TaskLab\TaskLab\bin\Debug\TaskLab.exe.config
+C:\Users\Артур\Desktop\TaskLab\TaskLab\TaskLab\bin\Debug\TaskLab.exe
+C:\Users\Артур\Desktop\TaskLab\TaskLab\TaskLab\bin\Debug\TaskLab.pdb
+C:\Users\Артур\Desktop\TaskLab\TaskLab\TaskLab\obj\Debug\TaskLab.exe
+C:\Users\Артур\Desktop\TaskLab\TaskLab\TaskLab\obj\Debug\TaskLab.pdb
+C:\Users\Артур\Desktop\TaskLab\bin\Debug\TaskLab.exe.config
+C:\Users\Артур\Desktop\TaskLab\bin\Debug\TaskLab.exe
+C:\Users\Артур\Desktop\TaskLab\bin\Debug\TaskLab.pdb
+C:\Users\Артур\Desktop\TaskLab\obj\Debug\TaskLab.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\TaskLab\obj\Debug\TaskLab.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\TaskLab\obj\Debug\TaskLab.exe
+C:\Users\Артур\Desktop\TaskLab\obj\Debug\TaskLab.pdb

@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace massiv
+namespace TaskLab
+
 {
-    internal class Program
+    public static class Task1
     {
-        static void Main(string[] args)
+        public static void Main1()
         {
             int n = 3;
             int m = 2;
